@@ -1,4 +1,4 @@
-# AndreaRusso
+# Andrea Russo
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
@@ -41,16 +41,6 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <a href="https://open.spotify.com/user/Andrea Memoria">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Andrea%20Memoria&count=5" alt="Spotify recently played"  />
-  </a>
 </div>
 
 ###
