@@ -13,7 +13,8 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2017<br>📚 I'm currently learning advanced programming techniques, best practices in software development, and expanding my knowledge of various technologies to strengthen my skills as a software developer.<br>🎯 Goals: Refine my programming techniques <br>🎲 Fun fact: I am very nice😂😂<br>🌐:<a href="https://drive.google.com/file/d/1Ds8Ht6XdJr7IVmx_yrev3pN1JGSXV1Sp/view?usp=drive_link" target="_blank">Download my CV</a>
+<p align="left">✨ Creating bugs since 2017<br>📚 I'm currently learning advanced programming techniques, best practices in software development, and expanding my knowledge of various technologies to strengthen my skills as a software developer.<br>🎯 Goals: Refine my programming techniques <br>🎲 Fun fact: I am very nice😂😂<br>🌐:<a href="https://drive.google.com/file/d/16k8SZubiGWlysoDEvIrEFntrQgjzYFRo/view?usp=drive_link" target="_blank">Download my CV</a>
+
 
 
  </p>
